@@ -17,7 +17,7 @@ This project is the first module (Data Extraction & Data Engineering) of a large
 * **Metadata Generation:** Compiles cleaned data distributions into JSON configurations, designed to feed dynamic UI dropdowns for the frontend application.
 
 ## Repository Structure
-* `dataset/` — (Ignored) Local directory containing manually downloaded JSON batches and compiled CSVs.
+* `dataset/` — (Ignored) Local directory containing manually downloaded JSON batches.
 * `parser.py` — The data extraction engine that processes local JSON chunks.
 * `eda_cleaner.py` — The core Data Engineering and cleaning script.
 * `main.py` — The orchestrator that runs the full pipeline from JSON extraction to metadata generation.
