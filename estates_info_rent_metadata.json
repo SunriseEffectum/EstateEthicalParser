@@ -1,0 +1,50 @@
+{
+    "price_range": {
+        "min": 12900,
+        "max": 59500
+    },
+    "area_range": {
+        "min": 18,
+        "max": 132
+    },
+    "categories": {
+        "estate_types": [
+            "1+1",
+            "1+kk",
+            "2+1",
+            "2+kk",
+            "3+1",
+            "3+kk",
+            "4+1",
+            "4+kk",
+            "5+1",
+            "5+kk"
+        ],
+        "districts": [
+            "Praha 1",
+            "Praha 2",
+            "Praha 3",
+            "Praha 4",
+            "Praha 5",
+            "Praha 6",
+            "Praha 7",
+            "Praha 8",
+            "Praha 9",
+            "Praha 10"
+        ],
+        "states": [
+            "New Building",
+            "Very Good",
+            "Good"
+        ],
+        "furnished": [
+            "Furnished",
+            "Partially Furnished",
+            "Unfurnished"
+        ]
+    },
+    "stats": {
+        "original_rows_num": 1220,
+        "cleaned_rows": 1097
+    }
+}
